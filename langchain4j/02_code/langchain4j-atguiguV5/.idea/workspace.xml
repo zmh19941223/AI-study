@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6187b8d-d021-4a15-90f1-0ea20fc9044d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../maven3.9.4/myJar_libs/dev/langchain4j/langchain4j-open-ai/1.0.1/langchain4j-open-ai-1.0.1-sources.jar!/dev/langchain4j/model/openai/OpenAiChatModel.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\devSoft\maven3.9.4\myJar_libs" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven3.9.4" />
+        <option name="userSettingsFile" value="D:\devSoft\maven3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xgEsVXzPH42VzoiOesgH4L0mnG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/devSoft/IDEA2023.2/IdeaProjects2/SpringAI-zyfanV1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.50375",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "1c1f314a5b5bf35d4ecccef1b992bd3f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\devSoft\IDEA2023.2\IdeaProjects2\langchain4j-atguiguV5\langchain4j-14chat-mcp\src\main\resources" />
+      <recent name="D:\devSoft\IDEA2023.2\IdeaProjects2\langchain4j-atguiguV5\langchain4j-13chat-rag01\src\main\java\com\atguigu\study" />
+      <recent name="D:\devSoft\IDEA2023.2\IdeaProjects2\langchain4j-atguiguV5\langchain4j-12chat-embedding\src\main\resources" />
+      <recent name="D:\devSoft\IDEA2023.2\IdeaProjects2\langchain4j-atguiguV5\langchain4j-11chat-functioncalling\src\main\java\com\atguigu\study\service" />
+      <recent name="D:\devSoft\IDEA2023.2\IdeaProjects2\langchain4j-atguiguV5\langchain4j-10chat-persistence\src\main\java\com\atguigu\study\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\devSoft\IDEA2023.2\IdeaProjects2\langchain4j-atguiguV5\langchain4j-06chat-image\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.McpLangChain4JApp">
+    <configuration name="BootIntegrationLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-03boot-integration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.BootIntegrationLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatEmbeddingLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-12chat-embedding" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatEmbeddingLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatFunctioncallingLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-11chat-functioncalling" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatFunctioncallingLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatImageModelLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-06chat-image" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatImageModelLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatMemoryLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-08chat-memory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatMemoryLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatPersistenceLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-10chat-persistence" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatPersistenceLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatRAGLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-13chat-rag01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatRAGLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatStreamLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-07chat-stream" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ChatStreamLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-01helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.HelloLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LowHighApiLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-04low-high-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.LowHighApiLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="McpLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-14chat-mcp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.McpLangChain4JApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelParametersLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-05model-parameters" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.ModelParametersLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiModelLangChain4JApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-02multi-model-together" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.MultiModelLangChain4JApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.McpLangChain4JApp" />
+        <item itemvalue="Spring Boot.ChatRAGLangChain4JApp" />
+        <item itemvalue="Spring Boot.ChatEmbeddingLangChain4JApp" />
+        <item itemvalue="Spring Boot.ChatFunctioncallingLangChain4JApp" />
+        <item itemvalue="Spring Boot.ChatPersistenceLangChain4JApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6187b8d-d021-4a15-90f1-0ea20fc9044d" name="Changes" comment="" />
+      <created>1698802084257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698802084257</updated>
+      <workItem from="1748351524316" duration="6939000" />
+      <workItem from="1748395217803" duration="18957000" />
+      <workItem from="1748431541931" duration="408000" />
+      <workItem from="1748572141792" duration="17715000" />
+      <workItem from="1748845324335" duration="175000" />
+      <workItem from="1748851227809" duration="4523000" />
+      <workItem from="1748856352440" duration="717000" />
+      <workItem from="1748867139978" duration="3728000" />
+      <workItem from="1748936712173" duration="696000" />
+      <workItem from="1749043086236" duration="345000" />
+      <workItem from="1749198139973" duration="694000" />
+      <workItem from="1749211871135" duration="58000" />
+      <workItem from="1749302750818" duration="180000" />
+      <workItem from="1749391446294" duration="1248000" />
+      <workItem from="1749457818228" duration="3755000" />
+      <workItem from="1749552914914" duration="40000" />
+      <workItem from="1749725946960" duration="693000" />
+      <workItem from="1749733639378" duration="226000" />
+      <workItem from="1750137098742" duration="5870000" />
+      <workItem from="1750229075158" duration="8837000" />
+      <workItem from="1750326602007" duration="20202000" />
+      <workItem from="1750495101946" duration="6453000" />
+      <workItem from="1750517095206" duration="165000" />
+      <workItem from="1750517280179" duration="6872000" />
+      <workItem from="1750580673795" duration="601000" />
+      <workItem from="1750665558608" duration="8376000" />
+      <workItem from="1750683257489" duration="5868000" />
+      <workItem from="1750733412415" duration="2942000" />
+      <workItem from="1750752474255" duration="9109000" />
+      <workItem from="1750765792544" duration="7499000" />
+      <workItem from="1750846010003" duration="65000" />
+      <workItem from="1750926632571" duration="281000" />
+      <workItem from="1750926925506" duration="6941000" />
+      <workItem from="1750935303170" duration="1305000" />
+      <workItem from="1751022930121" duration="28000" />
+      <workItem from="1751106219124" duration="604000" />
+      <workItem from="1751120194847" duration="516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
